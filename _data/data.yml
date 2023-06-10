@@ -183,17 +183,13 @@ oss:
     title: Certifications & Awards
     intro: 
     contributions:
-      - title: Winner of Guido Paolucci scholarship 
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Winner of Guido Paolucci scholarship in the school year 2009/2010
+        link: "https://lapiazzarimini.it/2010/la-bcc-di-gradara-investe-sui-giovani/"
+        tagline: "Scholarship funded by BCC Gradara (Riviera Banca) which rewards the best students of middle and high schools in the area between Pesaro and Rimini"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Attendance as a student at The Tenth World Conference on The Future of Science (Venice) in the year 2014
+        link: "https://www.thefutureofscience.org/about/tenth-world-conference-the-eradication-of-hunger"
+        tagline: "The conference was about the eradication of hunger and how science and technology can contribute to solving this problem"
 
 publications:
     title: Publications
