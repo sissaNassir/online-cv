@@ -52,6 +52,12 @@ sidebar:
 
         - item: Photography and Drawing
           link:
+          
+     license:
+       title: Driver License
+       info:
+        -item: B.
+        link:
 
 career-profile:
     title: Career Profile
