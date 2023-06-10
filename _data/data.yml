@@ -53,11 +53,11 @@ sidebar:
         - item: Photography and Drawing
           link:
           
-     license:
+    license:
        title: Driver License #drive
        info:
-        -item: B.
-        link:
+        - item: B.
+          link:
 
 career-profile:
     title: Career Profile
