@@ -42,8 +42,10 @@ sidebar:
           level: B2
 
     interests:
-      title: Interests
+      title: Personal & Hobbies
       info:
+        - item: Driving License
+          link: B.
         - item: Aerial Sports (Aerial Silks and Aerial Hoop)
           link:
 
@@ -52,9 +54,10 @@ sidebar:
 
         - item: Photography and Drawing
           link:
+         
           
     license:
-       title: Driver License #drive
+       title: Driving License #drive
        info:
         - item: B.
           link:
