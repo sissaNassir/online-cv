@@ -21,10 +21,17 @@
         </div><!--//upper-row-->
 
         <div class="university">{{ graduation.university }}</div>
+        
           <div class="item">
+            {% if graduation.link %}
              <li><a href="{{ graduation.link }}">{{ graduation.title }}</a></li>
+             {% else %}
+             {{ graduation.title }}
+             {% endif %}
           </div><!--//item-->
        </div><!--//meta-->
+      
+        
 
       {% if graduation.details %}
       <div class="details">
