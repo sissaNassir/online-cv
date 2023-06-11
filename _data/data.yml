@@ -65,12 +65,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a 26 years old Computer Engineer. I like computer science and problem solving. I am passionate about Artificial Intelligence. 
 education:
     title: Education
     info:
@@ -91,18 +86,21 @@ education1:
         university: University of Bologna
         time: 2019 - 2023
         details: |
+        Engineering and Computer Science
             - Thesis: 
             - Grade: 
       - degree: BSc in Computer Science Engineering
         university: University of Bologna
         time: 2015 - 2019
         details: |
+        Engineering and Computer Science
             - Thesis: "Studio del segnale sonoro tramite l'analisi di Fourier e sintesi musicale"
             - Grade: 
       - degree: Scientific High School Diploma
         university: Liceo Scientifico Albert Einstein, Rimini, Italy
         time: 2010 - 2015
         details: |
+        Bilingual school (English and Spanish)
             - Grade: 
 experiences:
     title: Experiences
