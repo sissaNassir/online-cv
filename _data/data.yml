@@ -131,6 +131,7 @@ oss:
     title: Certifications & Awards
     intro: 
     contributions:
+    
       - title: Winner of Guido Paolucci scholarship
         link: "https://lapiazzarimini.it/2010/la-bcc-di-gradara-investe-sui-giovani/"
         tagline: "Scholarship funded by BCC Gradara (Riviera Banca) which rewards the best students of middle and high schools in the area between Pesaro and Rimini. School year 2009/2010."
@@ -146,10 +147,10 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: Todo
+      - title: Your publication here
         link: "#"
-        authors: Todo
-        conference: Todo
+        authors: Authors
+        conference: conference
 
 skills:
     title: Skills &amp; Proficiency
