@@ -161,10 +161,11 @@ publications:
         authors: Authors
         conference: conference
 
-skills:
-    title: Skills
-    summary: |
-      I'm a 26 years old Computer Engineer who like computer science and problem solving. I'm passionate about Artificial Intelligence. I'm also a good listener and I have a curious mind.
+achievements:
+  title: Skills
+  toolset: |
+    - OProva1
+    - Ciao2
      
 
 footer: >
