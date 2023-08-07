@@ -132,9 +132,9 @@ projects:
         link: "https://github.com/silviazandoli/Underwater-Image_Enhancement"
         tagline: "University project - Deep Learning Exam"
 
-      - title: Sudoku implemented with Scala language and Prolog
+      - title: Sudoku
         link: "https://github.com/silviazandoli/progettoSudoku"
-        tagline: "University project"
+        tagline: "University project - Scala and Prolog languages"
 
 oss:
     title: Certifications & Achievements
