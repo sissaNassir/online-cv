@@ -164,11 +164,33 @@ publications:
 achievements:
   title: Skills
   toolset: |
-    - __Machine Learning and Deep Learning__: _Python_(Pandas, Numpy, SkLearn, Matplotlib), _Frameworks_(OpenCV, Keras), _Explainable AI_(SHAP, LIME)
-    - __Database Managment Systems__: _Relational DBMSs_(SQL, MySQL, Oracle, Microsoft Access), _NoSQL DBMSs_(MongoDB)
-    - __Computer Programming__: _Object Oriented design, distributed systems, concurrent programming, functional and logical programming.
+    - __Machine Learning and Deep Learning__: 
+        _Python_(Pandas, Numpy, SkLearn, Matplotlib).
+        _Frameworks_(OpenCV, Keras), _Explainable AI_(SHAP, LIME).
+        
+    - __Database Managment Systems__: 
+    
+        _Relational DBMSs_(SQL, MySQL, Oracle, Microsoft Access).
+        _NoSQL DBMSs_(MongoDB).
+        
+    - __Computer Programming__: 
+    
+        Object Oriented design, distributed systems, concurrent programming, functional and logical programming.
     
         _Programming Languages_: Java, Scala, Python, Matlab, C#, Prolog, C, C++, SPARQL, SQL, Lua.
+        _Concurrent Programming_: Actors and Agents base languages/frameworks. Akka.
+        _Software engineering_ : _Development techniques_: Git; _Build systems_: Gradle, Maven; _CI_: TravisCI.
+        
+    - __Web Development__:
+
+        _Web servers_: Apache Tomcat.
+        _CMS_ Wordpress.
+        _Web programming languages_ : CSS, HTML, JavaScript, Node, Vue, PHP, Angular.
+        _Markup languages_ : XML, HTML, Markdown.
+        
+      - __Operating Systems and Hardware__:
+          Windows and Linux installation and configuration, shell scripting.
+          Assembly language, good knowledge of Internet and computer network, basic knowledge of telecommunication networks.
 
      
 
