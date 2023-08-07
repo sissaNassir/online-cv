@@ -112,15 +112,19 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Here some projects are listed, included my thesis
+      Here some relevant projects are listed, included my two thesis. See also my github for more
     assignments:
       - title: Studio del segnale sonoro tramite l'analisi di Fourier e sintesi musicale
         link: "https://amslaurea.unibo.it/19089/"
         tagline: "Thesis for my BSc Degree"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Underwater Image Enhancement with Reinforcement Learning
+        link: "https://github.com/silviazandoli/Underwater-Image_Enhancement"
+        tagline: "University project - Deep Learning Exam"
+
+      - title: Sudoku implemented with Scala language and Prolog
+        link: "https://github.com/silviazandoli/progettoSudoku"
+        tagline: "University project - Scala"
 
 oss:
     title: Certifications & Awards
