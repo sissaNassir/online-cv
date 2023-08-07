@@ -164,7 +164,8 @@ publications:
 achievements:
   title: Skills
   toolset: |
-    - __Machine Learning and Deep Learning__: __Python__(Pandas,)
+    - __Machine Learning and Deep Learning__: _Python_ (Pandas,Pandas, Numpy, SkLearn, Matplotlib), __Frameworks__(OpenCV, Keras), __Explainable AI__ (SHAP, LIME)
+    - 
     - Ciao2
      
 
