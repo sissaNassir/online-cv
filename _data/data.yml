@@ -65,7 +65,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I'm a 26 years old Computer Engineer who like computer science and problem solving. I'm passionate about Artificial Intelligence.
+      I'm a 26 years old Computer Engineer who like computer science and problem solving. I'm passionate about Artificial Intelligence. I'm also a good listener and I have a curios mind.
 education:
     title: Education
     info:
@@ -144,7 +144,7 @@ oss:
         tagline: "Scholarship funded by BCC Gradara (Riviera Banca) which rewards the best students of middle and high schools in the area between Pesaro and Rimini. School year 2009/2010."
       - title: Attendance at The Tenth World Conference on The Future of Science
         link: "https://www.thefutureofscience.org/about/tenth-world-conference-the-eradication-of-hunger"
-        tagline: "The conference was about the eradication of hunger and how science and technology can contribute to solving this problem. Venice, September 2014"
+        tagline: "The conference was about the eradication of hunger and how science and technology can contribute to solve this problem. Venice, September 2014"
       - title: B2 First (FCE), Cambridge Assessment
         link:
         tagline: "May, 2014"
