@@ -88,12 +88,14 @@ education1:
         details: |
             - Thesis: 
             - Grade: 
+            - CFU achieved: 128/120
       - degree: BSc in Computer Science Engineering
         university: University of Bologna
         time: 2015 - 2019
         details: |
             - Thesis: "Studio del segnale sonoro tramite l'analisi di Fourier e sintesi musicale"
-            - Grade: 
+            - Grade: 95/110
+            - CFU achieved: 180/180
       - degree: Scientific High School Diploma
         university: Liceo Scientifico Albert Einstein, Rimini, Italy
         time: 2010 - 2015
