@@ -70,27 +70,28 @@ education:
     title: Education
     info:
       - degree: MSc in Computer Science and Engineering
-        university: University of Bologna - Cesena Campus
+        university: University of Bologna, Cesena Campus
         time: 2019 - 2023
         details: |
           
       - degree: BSc in Computer Science and Engineering
-        university: University of Bologna - Cesena Campus
+        university: University of Bologna, Cesena Campus
         time: 2015 - 2019
         details: |
           
 education1:
     title: Education
     info:
-      - degree: MSc in Computer Science and Engineering (class LM-32 Computer Engineering)
-        university: University of Bologna - Cesena Campus
+      - degree: MSc in Computer Science and Engineering
+        university: University of Bologna, Cesena Campus
         time: 2019 - 2023
         details: |
             - Thesis: 
             - Grade: 
             - CFU achieved: 128/120
+            - class: LM-32 Computer Engineering
       - degree: BSc in Computer Science and Engineering
-        university: University of Bologna - Cesena Campus
+        university: University of Bologna, Cesena Campus
         time: 2015 - 2019
         details: |
             - Thesis: "Studio del segnale sonoro tramite l'analisi di Fourier e sintesi musicale"
