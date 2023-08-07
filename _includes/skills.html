@@ -11,9 +11,16 @@
   </h2>
 
   <div class="skillset">
-    <h3 class="level-title"> {{ skill.name }} </h3>
-    <div class="level-info"> {{ skill.info | markdownify }} </div>
+    <table>
+      {% for skill in skills.toolset %}
+      <tr>
+        <td><h3 class="level-title"> {{ skill.name }} </h3></td>
+        <td><div class="level-info"> {{ skill.info | markdownify }} </div></td>
+      </tr>
+      {% endfor %}
+    </table>
   </div>
 
 </section><!--//skills-section-->
 {% endif %}
+
