@@ -164,6 +164,11 @@ publications:
 skills:
     title: Skills
     toolset:
+      - name: Machine Learning and Deep Learning
+        info: |
+              - __Python__: Pandas, Numpy, SkLearn, Matplotlib
+              - __Frameworks__: OpenCV, Keras
+              - __Explainable AI__: SHAP, LIME
       - name: Database Managment Systems
         info: |
               - __Relational DBMSs__: SQL, MySQL, Oracle, Microsoft Access.
@@ -171,13 +176,14 @@ skills:
       - name: Computer Programming
         info: | 
               - Object Oriented programming, distributed systems, concurrent programming, functional and logical programming.
-              - __Programming Languages__: Java, Scala, Python, Keras, Matlab, C#, Prolog, C, C++, SPARQL, SQL.
+              - __Programming Languages__: Java, Scala, Python, Matlab, C#, Prolog, C, C++, SPARQL, SQL, Lua.
+              - __Concurrent Programming__: Actors and Agents base languages/frameworks. Akka.
+              - __Frameworks__: Java Spring Boot.
               - __Software engineering__: __Development techniques__: Git; __Build systems__: Gradle, Maven; __CI__: TravisCI.
       - name: Web Development
         info: |
               - __Web servers__: Apache Tomcat.
               - __CMS__: Wordpress.
-              - __Frameworks__: Java Spring Boot.
               - __Web programming languages__: CSS, HTML, JavaScript, Node, Vue, PHP, Angular.
               - __Markup languages__: XML, HTML, Markdown.
       - name: Operating Systems
@@ -185,7 +191,7 @@ skills:
               - Windows and Linux installation and configuration, shell scripting.
       - name: Hardware
         info: |
-              - Assembly language, knowledge of Internet and computer network, basic knowledge of telecommunication networks.
+              - Assembly language, good knowledge of Internet and computer network, basic knowledge of telecommunication networks.
      
 
 footer: >
