@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Silvia Zandoli
     tagline: Computer Engineer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png  #place a 200x200 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: silviadolomiti@gmail.com
@@ -65,7 +65,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I'm a 26 years old Computer Engineer who like computer science and problem solving. I'm passionate about Artificial Intelligence. I'm also a good listener and I have a curious mind.
+      I'm a 26 years old Computer Engineer who like computer science and problem solving. I'm passionate about Artificial Intelligence. 
+      
+      I'm a good listener with a curious mind.
 education:
     title: Education
     info:
@@ -116,7 +118,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Here some relevant projects are listed, included my two thesis. See also my github for more
+      Here some relevant projects are listed, included my thesis. See also my github for more.
     assignments:
       - title: Explainable AI a supporto delle diagnosi mediche
         link:
@@ -137,14 +139,15 @@ projects:
 oss:
     title: Certifications & Achievements
     intro: |
-      You can list your awards and certifications in this section.
     contributions:    
       - title: Winner of Guido Paolucci scholarship
         link: "https://lapiazzarimini.it/2010/la-bcc-di-gradara-investe-sui-giovani/"
         tagline: "Scholarship funded by BCC Gradara (Riviera Banca) which rewards the best students of middle and high schools in the area between Pesaro and Rimini. School year 2009/2010."
+      
       - title: Attendance at The Tenth World Conference on The Future of Science
         link: "https://www.thefutureofscience.org/about/tenth-world-conference-the-eradication-of-hunger"
         tagline: "The conference was about the eradication of hunger and how science and technology can contribute to solve this problem. Venice, September 2014"
+      
       - title: B2 First (FCE), Cambridge Assessment
         link:
         tagline: "May, 2014"
@@ -154,31 +157,27 @@ oss:
 publications:
     title: Publications
     intro: |
-      My publications:
+      Nothing to see here at the moment. 
     papers:
-      - title: Your publication here
-        link: "#"
-        authors: Authors
-        conference: conference
+      - title: # Your publication here
+        link: # put link here with "#"
+        authors: # Authors
+        conference: # conference
 
 achievements:
   title: Skills
   toolset: |
-    - __Machine Learning and Deep Learning__: 
-    
-      - _Python_(Pandas, Numpy, SkLearn, Matplotlib).
-      - _Frameworks_(OpenCV, Keras).
-      - _Explainable AI_(SHAP, LIME).
+    - __Machine Learning and Deep Learning__:   
+      - _Python_ (Pandas, Numpy, SkLearn, Matplotlib).
+      - _Frameworks_ (OpenCV, Keras).
+      - _Explainable AI_ (SHAP, LIME).
         
-    - __Database Managment Systems__: 
-    
-      - _Relational DBMSs_(SQL, MySQL, Oracle, Microsoft Access).
-      - _NoSQL DBMSs_(MongoDB).
+    - __Database Managment Systems__:     
+      - _Relational DBMSs_ (SQL, MySQL, Oracle, Microsoft Access).
+      - _NoSQL DBMSs_ (MongoDB).
         
-    - __Computer Programming__: 
-    
-       Object Oriented design, distributed systems, concurrent programming, functional and logical programming.
-    
+    - __Computer Programming__:     
+    Object Oriented design, distributed systems, concurrent programming, functional and logical programming.
       - _Programming Languages_: Java, Scala, Python, Matlab, C#, Prolog, C, C++, SPARQL, SQL, Lua.
       - _Concurrent Programming_: Actors and Agents base languages/frameworks. Akka.
       - _Software engineering_ : 
@@ -187,7 +186,6 @@ achievements:
         - _CI_: TravisCI.
         
     - __Web Development__:
-
       - _Web servers_: Apache Tomcat.
       - _CMS_ Wordpress.
       - _Web programming languages_ : CSS, HTML, JavaScript, Node, Vue, PHP, Angular.
