@@ -131,7 +131,7 @@ projects:
         tagline: "University project - Scala"
 
 oss:
-    title: Certifications & Awards
+    title: Certifications & Awards & Achievements
     intro: |
       You can list your awards and certifications in this section.
     contributions:    
@@ -150,9 +150,7 @@ oss:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      My publications:
     papers:
       - title: Your publication here
         link: "#"
