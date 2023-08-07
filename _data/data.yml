@@ -163,6 +163,9 @@ publications:
 
 skills:
     title: Skills
+    toolset:
+      - name: Soft skills
+        info: problem solving, good listener.
       - name: Professional skills
         info: |
             - __Database Managment Systems__:
@@ -174,6 +177,7 @@ skills:
               - __Software engineering__: __Development techniques__: Git; __Build systems__: Gradle, Maven; __CI__: TravisCI.
             - __Web Development__: 
               - __Web servers__: Apache Tomcat.
+              - __CMS: Wordpress.
               - __CMS__: Wordpress.
               - __Web programming languages__: CSS, HTML, JavaScript, Node, Vue, PHP, Angular.
               - __Markup languages__: XML, HTML, Markdown.
