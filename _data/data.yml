@@ -118,7 +118,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Here some relevant projects are listed, included my thesis. See also my github for more.
+      Here some relevant projects are listed, included my theses. See also my github for more.
     assignments:
       - title: Explainable AI a supporto delle diagnosi mediche
         link:
@@ -134,7 +134,7 @@ projects:
 
       - title: Sudoku implemented with Scala language and Prolog
         link: "https://github.com/silviazandoli/progettoSudoku"
-        tagline: "University project - Scala"
+        tagline: "University project"
 
 oss:
     title: Certifications & Achievements
@@ -187,7 +187,7 @@ achievements:
         
     - __Web Development__:
       - _Web servers_: Apache Tomcat.
-      - _CMS_ Wordpress.
+      - _CMS_: Wordpress.
       - _Web programming languages_ : CSS, HTML, JavaScript, Node, Vue, PHP, Angular.
       - _Markup languages_ : XML, HTML, Markdown.
         
