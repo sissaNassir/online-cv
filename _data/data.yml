@@ -164,9 +164,12 @@ publications:
 achievements:
   title: Skills
   toolset: |
-    - __Machine Learning and Deep Learning__: _Python_ (Pandas,Pandas, Numpy, SkLearn, Matplotlib), __Frameworks__(OpenCV, Keras), __Explainable AI__ (SHAP, LIME)
-    - 
-    - Ciao2
+    - __Machine Learning and Deep Learning__: _Python_(Pandas, Numpy, SkLearn, Matplotlib), _Frameworks_(OpenCV, Keras), _Explainable AI_(SHAP, LIME)
+    - __Database Managment Systems__: _Relational DBMSs_(SQL, MySQL, Oracle, Microsoft Access), _NoSQL DBMSs_(MongoDB)
+    - __Computer Programming__: _Object Oriented design, distributed systems, concurrent programming, functional and logical programming.
+    
+        _Programming Languages_: Java, Scala, Python, Matlab, C#, Prolog, C, C++, SPARQL, SQL, Lua.
+
      
 
 footer: >
