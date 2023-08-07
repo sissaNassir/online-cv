@@ -164,8 +164,10 @@ publications:
 skills:
     title: Skills
     toolset:
-      - name: Soft skills
-        info: problem solving, good listener.
+      - name: Database Managment Systems
+        info: |
+              - __Relational DBMSs__: SQL, MySQL, Oracle, Microsoft Access.
+              - __NoSQL DBMSs__: MongoDB.
       - name: Professional skills
         info: |
             - __Database Managment Systems__:
