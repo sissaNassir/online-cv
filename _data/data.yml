@@ -180,9 +180,6 @@ skills:
               - __Frameworks__: Java Spring Boot.
               - __Web programming languages__: CSS, HTML, JavaScript, Node, Vue, PHP, Angular.
               - __Markup languages__: XML, HTML, Markdown.
-      - name: Operating Systems & Hardware
-         info: |
-              - Windows and Linux installation and configuration, shell scripting, assembly language, knowledge of Internet and computer network, basic knowledge of telecommunication networks.
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
