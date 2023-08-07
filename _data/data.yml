@@ -184,7 +184,7 @@ skills:
         info: |
               - Windows and Linux installation and configuration, shell scripting.
       - name: Hardware
-         info: |
+        info: |
               - Assembly language, knowledge of Internet and computer network, basic knowledge of telecommunication networks.
      
 
