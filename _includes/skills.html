@@ -7,20 +7,13 @@
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-wrench fa-stack-1x fa-inverse"></i>
     </span>
-    {{ skills.title }}
+    {{ skill.title }}
   </h2>
 
   <div class="skillset">
-    <table>
-      {% for skill in skills.toolset %}
-      <tr>
-        <td><h3 class="level-title"> {{ skill.name }} </h3></td>
-        <td><div class="level-info"> {{ skill.info | markdownify }} </div></td>
-      </tr>
-      {% endfor %}
-    </table>
-  </div>
-
-</section><!--//skills-section-->
+    {{ skill.skillset | markdownify }}
+  </div><!--//summary-->
+    
+</section><!--//section-->
 {% endif %}
 
