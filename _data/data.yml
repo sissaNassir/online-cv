@@ -130,11 +130,11 @@ projects:
 
       - title: Underwater Image Enhancement with Reinforcement Learning
         link: "https://github.com/silviazandoli/Underwater-Image_Enhancement"
-        tagline: "University project - Deep Learning Exam"
+        tagline: "University project (Deep Learning Exam)"
 
       - title: Sudoku
         link: "https://github.com/silviazandoli/progettoSudoku"
-        tagline: "University project - Scala and Prolog languages"
+        tagline: "University project (Scala and Prolog languages)"
 
 oss:
     title: Certifications & Achievements
@@ -193,7 +193,7 @@ achievements:
         
     - __Operating Systems and Hardware__:
       - Windows and Linux installation and configuration, shell scripting.
-      - Assembly language, good knowledge of Internet and computer network, basic knowledge of telecommunication networks.
+      - Assembly language, good knowledge of Internet and computer network, basic knowledge of telecommunication networks, very basic knowledge of control systems and automation.
 
      
 
