@@ -88,8 +88,8 @@ education1:
         university: University of Bologna, Cesena Campus
         time: 2019 - 2023
         details: |
-            - Thesis: 
-            - Grade: 
+            - Thesis: In Progress
+            - Grade: In Progress
             - CFU achieved: 128/120
             - Class: LM-32 Computer Engineering
       - degree: BSc in Computer Science and Engineering
@@ -107,13 +107,8 @@ education1:
             - Languages (English and Spanish) 
 experiences:
     title: Experiences
-    info:
-      - role: Tutor
-        time: September, 2023
-        company: Ragazze digitali ER Project
-        details: |
-         Ragazze digitali ER is a project whose main objective is to introduce girls of high schools to information technology and programming in a fun and creative way,
-         thus helping to reduce the digital gender gap. 
+    info: |
+    Nothing to see here at the moment. 
       
 projects:
     title: Projects
