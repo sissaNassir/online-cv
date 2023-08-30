@@ -107,12 +107,13 @@ education1:
             - Languages (English and Spanish) 
 experiences:
     title: Experiences
-      - role: Tutor        
+    info:
+      - role: Tutor
         time: September, 2023
-        company: Ragazze digitali ER Project        
+        company: Ragazze digitali ER Project
         details: |
-         Ragazze digitali ER is a project whose main objective is to introduce girls of high schools to information technology and programming in a fun and creative way,         thus helping to reduce the digital gender gap.
-      
+         Ragazze digitali ER is a project whose main objective is to introduce girls of high schools to information technology and programming in a fun and creative way,
+         thus helping to reduce the digital gender gap. 
 projects:
     title: Projects
     intro: >
