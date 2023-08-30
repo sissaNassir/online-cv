@@ -109,7 +109,8 @@ experiences:
     title: Experiences
     - role: Tutor        
         time: September, 2023
-        company: Ragazze digitali ER Project        details: |
+        company: Ragazze digitali ER Project        
+        details: |
          Ragazze digitali ER is a project whose main objective is to introduce girls of high schools to information technology and programming in a fun and creative way,         thus helping to reduce the digital gender gap.
       
 projects:
