@@ -107,7 +107,7 @@ education1:
             - Languages (English and Spanish) 
 experiences:
     title: Experiences
-    - role: Tutor        
+      - role: Tutor        
         time: September, 2023
         company: Ragazze digitali ER Project        
         details: |
