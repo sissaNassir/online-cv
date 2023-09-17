@@ -177,7 +177,7 @@ achievements:
         
     - __Computer Programming__:     
     Object Oriented design, distributed systems, concurrent programming, functional and logical programming.
-      - _Programming Languages_: Java, Scala, Python, Matlab, C#, Prolog, C, C++, SPARQL, SQL, Lua, Matlab.
+      - _Programming Languages_: Java, Scala, Python, Matlab, C#, Prolog, C, C++, SPARQL, SQL, Lua .
       - _Concurrent Programming_: Actors and Agents base languages/frameworks. Akka.
       - _Software engineering_ : 
         - _Development techniques_: Git.
