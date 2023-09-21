@@ -86,7 +86,7 @@ education1:
     info:
       - degree: MSc in Computer Science and Engineering
         university: University of Bologna, Cesena Campus
-        time: 2019 - 2023
+        time: October 2019 - March 2024
         details: |
             - Thesis: In Progress
             - Grade: In Progress
@@ -94,7 +94,7 @@ education1:
             - Class: LM-32 Computer Engineering
       - degree: BSc in Computer Science and Engineering
         university: University of Bologna, Cesena Campus
-        time: 2015 - 2019
+        time: October 2015 - October 2019
         details: |
             - Thesis: "Studio del segnale sonoro tramite l'analisi di Fourier e sintesi musicale"
             - Grade: 95/110
