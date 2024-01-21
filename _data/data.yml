@@ -19,7 +19,7 @@ sidebar:
     website: medium.com/@sissuan #do not add http://
     linkedin: silvia-z-8755a7198
     xing: 
-    github: silviazandoli
+    github: sissaNassir
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: assets/zandolicv.pdf
+    pdf: 
 
     languages:
       title: Languages
@@ -48,10 +48,6 @@ sidebar:
           link: 
         - item: Aerial Sports (Aerial Silks and Aerial Hoop)
           link:
-
-        - item: Classical Guitar
-          link:
-
         - item: Photography and Drawing
           link:
          
@@ -65,7 +61,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I'm a 26 years old Computer Engineer who like computer science and problem solving. I'm passionate about Artificial Intelligence. 
+      I'm a 27 years old Computer Engineer who like computer science and problem solving. I'm passionate about Artificial Intelligence. 
       
       I'm a good listener with a curious mind.
 education:
@@ -73,12 +69,12 @@ education:
     info:
       - degree: MSc in Computer Science and Engineering
         university: University of Bologna, Cesena Campus
-        time: 2019 - 2023
+        time: |
         details: |
           
       - degree: BSc in Computer Science and Engineering
         university: University of Bologna, Cesena Campus
-        time: 2015 - 2019
+        time: |
         details: |
           
 education1:
@@ -119,7 +115,7 @@ projects:
     intro: >
       Here some relevant projects are listed, included my theses. See also my github for more.
     assignments:
-      - title: Explainable AI a supporto delle diagnosi mediche
+      - title: An Explainable AI approach on medical diagnosis - A use case for Ifnf center
         link:
         tagline: "Research Thesis for my MSc degree (In progress)"
         
@@ -128,11 +124,11 @@ projects:
         tagline: "Thesis for my BSc Degree"
 
       - title: Underwater Image Enhancement with Reinforcement Learning
-        link: "https://github.com/silviazandoli/Underwater-Image_Enhancement"
+        link: "https://github.com/sissaNassir/Underwater-Image_Enhancement"
         tagline: "University project (Deep Learning Exam)"
 
       - title: Sudoku
-        link: "https://github.com/silviazandoli/progettoSudoku"
+        link: "https://github.com/sissaNassir/progettoSudoku"
         tagline: "University project (Scala and Prolog languages)"
 
 oss:
@@ -168,8 +164,8 @@ achievements:
   toolset: |
     - __Machine Learning and Deep Learning__:   
       - _Python_ (Pandas, Numpy, SkLearn, Matplotlib).
-      - _Frameworks_ (OpenCV, Keras).
-      - _Explainable AI_ (SHAP, LIME).
+      - _Frameworks_ (OpenCV, Keras, Pytorch).
+      - _Explainable AI_.
         
     - __Database Managment Systems__:     
       - _Relational DBMSs_ (SQL, MySQL, Oracle, Microsoft Access).
