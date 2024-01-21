@@ -85,7 +85,7 @@ education1:
         time: October 2019 - March/July 2024
         details: |
             - Thesis: An Explainable AI approach on medical diagnosis - A use case for INFN center (In Progress)
-            - Grade: In Progress
+            - Grade: In Progress (Average marks of exams is 27.5)
             - CFU achieved: 128/120
             - Class: LM-32 Computer Engineering
       - degree: BSc in Computer Science and Engineering
@@ -131,24 +131,6 @@ projects:
         link: "https://github.com/sissaNassir/progettoSudoku"
         tagline: "University project (Scala and Prolog languages)"
 
-oss:
-    title: Certifications & Achievements
-    intro: |
-    contributions:    
-      - title: Winner of Guido Paolucci scholarship
-        link: "https://lapiazzarimini.it/2010/la-bcc-di-gradara-investe-sui-giovani/"
-        tagline: "Scholarship funded by BCC Gradara (Riviera Banca) which rewards the best students of middle and high schools in the area between Pesaro and Rimini. School year 2009/2010."
-      
-      - title: Attendance at The Tenth World Conference on The Future of Science
-        link: "https://www.thefutureofscience.org/about/tenth-world-conference-the-eradication-of-hunger"
-        tagline: "The conference was about the eradication of hunger and how science and technology can contribute to solve this problem. Venice, September 2014"
-      
-      - title: B2 First (FCE), Cambridge Assessment
-        link:
-        tagline: "May, 2014"
-
-
-
 publications:
     title: Publications
     intro: |
@@ -190,7 +172,21 @@ achievements:
       - Windows and Linux installation and configuration, shell scripting.
       - Assembly language, good knowledge of Internet and computer network, basic knowledge of telecommunication networks, very basic knowledge of electronics, control systems and automation.
 
-     
+oss:
+    title: Certifications & Achievements
+    intro: |
+    contributions:    
+      - title: Winner of Guido Paolucci scholarship
+        link: "https://lapiazzarimini.it/2010/la-bcc-di-gradara-investe-sui-giovani/"
+        tagline: "Scholarship funded by BCC Gradara (Riviera Banca) which rewards the best students of middle and high schools in the area between Pesaro and Rimini. School year 2009/2010."
+      
+      - title: Attendance at The Tenth World Conference on The Future of Science
+        link: "https://www.thefutureofscience.org/about/tenth-world-conference-the-eradication-of-hunger"
+        tagline: "The conference was about the eradication of hunger and how science and technology can contribute to solve this problem. Venice, September 2014"
+      
+      - title: B2 First (FCE), Cambridge Assessment
+        link:
+        tagline: "May, 2014"
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
