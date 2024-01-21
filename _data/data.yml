@@ -13,11 +13,11 @@ sidebar:
 
     # Sidebar links
     email: silviadolomiti@gmail.com
-    phone: 
+    phone: +39 3342544073
     timezone: Italy
     citizenship:
     website: medium.com/@sissuan #do not add http://
-    linkedin: silvia-z-8755a7198
+    linkedin: 
     xing: 
     github: sissaNassir
     telegram: # add your nickname without '@' sign
@@ -84,7 +84,7 @@ education1:
         university: University of Bologna, Cesena Campus
         time: October 2019 - March 2024
         details: |
-            - Thesis: In Progress
+            - Thesis: An Explainable AI approach on medical diagnosis - A use case for INFN center (In Progress)
             - Grade: In Progress
             - CFU achieved: 128/120
             - Class: LM-32 Computer Engineering
@@ -115,7 +115,7 @@ projects:
     intro: >
       Here some relevant projects are listed, included my theses. See also my github for more.
     assignments:
-      - title: An Explainable AI approach on medical diagnosis - A use case for Ifnf center
+      - title: An Explainable AI approach on medical diagnosis - A use case for INFN center
         link:
         tagline: "Research Thesis for my MSc degree (In progress)"
         
