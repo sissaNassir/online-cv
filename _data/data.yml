@@ -84,7 +84,7 @@ education1:
         university: University of Bologna, Cesena Campus
         time: October 2019 - March 2024
         details: |
-            - Thesis: In Progress (Explainable prototype-based image classification models in medical imaging - A use case for INFN center)
+            - Thesis: In Progress (Integrazione di modelli a prototipi spiegabili a supporto delle diagnosi mediche e simulazione dell’integrazione con la cloud Infn)
             - Grade: In Progress (Average marks of exams is 27.5)
             - CFU achieved: 128/120
             - Class: LM-32 Computer Engineering
@@ -115,7 +115,7 @@ projects:
     intro: >
       Here some relevant projects are listed, included my theses. See also my github for more.
     assignments:
-      - title: Explainable prototype-based image classification models in medical imaging - A use case for INFN center (In Progress)
+      - title: Integrazione di modelli a prototipi spiegabili a supporto delle diagnosi mediche e simulazione dell’integrazione con la cloud Infn (In Progress)
         link:
         tagline: "Research Thesis for my MSc degree (In progress)"
         
