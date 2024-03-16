@@ -59,7 +59,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I'm a Computer Engineer who like computer science and problem solving. I'm passionate about Artificial Intelligence, some exams I've taken are: Fondamenti di Intelligenza Artificiale(Bologna),Machine Learning(Cesena),Deep Learning(Cesena),Intelligent Robotic Systems(Cesena). 
+      I'm a Computer Engineer who like computer science and problem solving. I'm passionate about Artificial Intelligence. 
       
       I'm a good listener with a curious mind.
 education:
@@ -83,10 +83,10 @@ education1:
         time: October 2019 - March 2024
         details: |
             - Thesis: Soluzioni digitali e integrazioni di modelli spiegabili a supporto delle diagnosi mediche
+            - [Click here for reading the abstract of the thesis](https://docs.google.com/document/d/1d_GyWI9PXgElgoEIloNoY4FUZDG4u8wQ1ueksntKxb4/edit)
             - Grade: 107/110
             - CFU achieved: 128/120
             - Class: LM-32 Computer Engineering
-            - [Click here for reading the abstract](https://docs.google.com/document/d/1d_GyWI9PXgElgoEIloNoY4FUZDG4u8wQ1ueksntKxb4/edit)
       - degree: BSc in Computer Science and Engineering
         university: University of Bologna, Cesena Campus
         time: October 2015 - October 2019
@@ -150,10 +150,9 @@ publications:
 achievements:
   title: Skills
   toolset: |
-    - __Machine Learning and Deep Learning__:   
+    - __Machine Learning, Deep Learning and Explainable AI__:   
       - _Python_ (Pandas, Numpy, SkLearn, Matplotlib).
       - _Frameworks_ (OpenCV, Keras, Pytorch).
-      - _Explainable AI_.
         
     - __Database Managment Systems__:     
       - _Relational DBMSs_ (SQL, MySQL, Oracle, Microsoft Access).
