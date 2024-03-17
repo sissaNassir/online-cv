@@ -78,7 +78,7 @@ education:
 education1:
     title: Education
     info:
-      - degree: MSc in Computer Science and Engineering
+      - degree: MSc in Computer Science and Engineering (LM-32)
         university: University of Bologna, Cesena Campus
         time: October 2019 - March 2024
         details: |
@@ -86,7 +86,6 @@ education1:
             - [Click here for reading the abstract of the thesis](https://docs.google.com/document/d/1d_GyWI9PXgElgoEIloNoY4FUZDG4u8wQ1ueksntKxb4/edit)
             - Grade: 107/110
             - CFU achieved: 128/120
-            - Class: LM-32 Computer Engineering
       - degree: BSc in Computer Science and Engineering
         university: University of Bologna, Cesena Campus
         time: October 2015 - October 2019
@@ -148,7 +147,7 @@ publications:
         conference: # conference
 
 achievements:
-  title: Skills
+  title: Skills learned at university
   toolset: |
     - __Machine Learning, Deep Learning and Explainable AI__:   
       - _Python_ (Pandas, Numpy, SkLearn, Matplotlib).
@@ -180,18 +179,16 @@ achievements:
 oss:
     title: Certifications & Achievements
     intro: |
-    contributions:    
-      - title: Winner of Guido Paolucci scholarship
-        link: "https://lapiazzarimini.it/2010/la-bcc-di-gradara-investe-sui-giovani/"
-        tagline: "Scholarship funded by BCC Gradara (Riviera Banca) which rewards the best students of middle schools in the area between Pesaro and Rimini. School year 2009/2010."
-      
+    contributions:  
       - title: Attendance at The Tenth World Conference on The Future of Science
         link: "https://www.thefutureofscience.org/about/tenth-world-conference-the-eradication-of-hunger"
         tagline: "The conference was about the eradication of hunger and how science and technology can contribute to solve this problem. Venice, September 2014"
-      
       - title: B2 First (FCE), Cambridge Assessment
         link:
         tagline: "May, 2014"
+      - title: Winner of Guido Paolucci scholarship
+        link: "https://lapiazzarimini.it/2010/la-bcc-di-gradara-investe-sui-giovani/"
+        tagline: "Scholarship funded by BCC Gradara (Riviera Banca) which rewards the best students of middle schools in the area between Pesaro and Rimini. School year 2009/2010."
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
