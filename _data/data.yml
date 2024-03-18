@@ -134,7 +134,7 @@ projects:
 
       - title: Sudoku
         link: "https://github.com/sissaNassir/progettoSudoku"
-        tagline: "Scala and Prolog course, click on the title for the link"
+        tagline: "Scala and Prolog languages, click on the title for the link"
 
       - title: Firefighter-escape with q-learning approximation
         link: "https://github.com/sissaNassir/firefighter-escape"
@@ -142,7 +142,7 @@ projects:
 
       - title: Tablut
         link: "https://github.com/sissaNassir/Tulbat"
-        tagline: "University project (Fondamenti di Intelligenza Artificiale), click in the title for the link" 
+        tagline: "Fondamenti di Intelligenza Artificiale course, click in the title for the link" 
 
 publications:
     title: Publications
