@@ -130,11 +130,11 @@ projects:
 
       - title: Underwater Image Enhancement with Reinforcement Learning
         link: "https://github.com/sissaNassir/Underwater-Image_Enhancement"
-        tagline: "University project (Deep Learning Exam), click [here](https://github.com/sissaNassir/Underwater-Image_Enhancement?tab=readme-ov-file)"
+        tagline: University project (Deep Learning Exam), click [here](https://github.com/sissaNassir/Underwater-Image_Enhancement?tab=readme-ov-file)
 
       - title: Sudoku
         link: "https://github.com/sissaNassir/progettoSudoku"
-        tagline: "University project (Scala and Prolog languages), click [here](https://github.com/sissaNassir/progettoSudoku)"
+        tagline: "University project (Scala and Prolog languages)click [here](https://github.com/sissaNassir/progettoSudoku)"
 
 publications:
     title: Publications
