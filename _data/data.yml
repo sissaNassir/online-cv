@@ -138,11 +138,11 @@ projects:
 
       - title: Firefighter-escape with q-learning approximation
         link: "https://github.com/sissaNassir/firefighter-escape"
-        tagline: "Intelligent Robotic Systems course, click in the title for the link"
+        tagline: "Intelligent Robotic Systems course, click on the title for the link"
 
       - title: Tablut
         link: "https://github.com/sissaNassir/Tulbat"
-        tagline: "Fondamenti di Intelligenza Artificiale course, click in the title for the link" 
+        tagline: "Fondamenti di Intelligenza Artificiale course, click on the title for the link" 
 
 publications:
     title: Publications
