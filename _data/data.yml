@@ -82,7 +82,7 @@ education1:
         university: University of Bologna, Cesena Campus
         time: October 2019 - March 15, 2024
         details: |
-            - Thesis: Soluzioni digitali e integrazioni di modelli spiegabili a supporto delle diagnosi mediche
+            - Thesis: Soluzioni digitali e integrazione di modelli spiegabili a supporto delle diagnosi mediche
             - [Click here for reading the abstract of the thesis](https://docs.google.com/document/d/1d_GyWI9PXgElgoEIloNoY4FUZDG4u8wQ1ueksntKxb4/edit)
             - Grade: 107/110
             - CFU achieved: 128/120
@@ -120,7 +120,7 @@ projects:
     intro: >
       Here some university projects are listed, included my theses. See also my github for more.
     assignments:
-      - title: Soluzioni digitali e integrazioni di modelli spiegabili a supporto delle diagnosi mediche
+      - title: Soluzioni digitali e integrazione di modelli spiegabili a supporto delle diagnosi mediche
         link: "https://docs.google.com/document/d/1d_GyWI9PXgElgoEIloNoY4FUZDG4u8wQ1ueksntKxb4/edit"
         tagline: "Thesis for my MSc degree, click on the title for the link"
         
