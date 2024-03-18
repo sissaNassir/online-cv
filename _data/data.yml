@@ -16,7 +16,7 @@ sidebar:
     phone: +39 3342544073
     timezone: Italy
     citizenship:
-    website: medium.com/@sissuan #do not add http://
+    website: #medium.com/@sissuan #do not add http://
     linkedin:
     xing: 
     github: sissaNassir?tab=repositories
@@ -122,19 +122,19 @@ projects:
     assignments:
       - title: Soluzioni digitali e integrazioni di modelli spiegabili a supporto delle diagnosi mediche
         link: "https://docs.google.com/document/d/1d_GyWI9PXgElgoEIloNoY4FUZDG4u8wQ1ueksntKxb4/edit"
-        tagline: "Thesis for my MSc degree"
+        tagline: "Thesis for my MSc degree, link [here](https://docs.google.com/document/d/1d_GyWI9PXgElgoEIloNoY4FUZDG4u8wQ1ueks"
         
       - title: Studio del segnale sonoro tramite l'analisi di Fourier e sintesi musicale
         link: "https://amslaurea.unibo.it/19089/"
-        tagline: "Thesis for my BSc Degree"
+        tagline: "Thesis for my BSc Degree, link [here](https://amslaurea.unibo.it/19089/)"
 
       - title: Underwater Image Enhancement with Reinforcement Learning
         link: "https://github.com/sissaNassir/Underwater-Image_Enhancement"
-        tagline: "University project (Deep Learning Exam)"
+        tagline: "University project (Deep Learning Exam), click [here](https://github.com/sissaNassir/Underwater-Image_Enhancement?tab=readme-ov-file)"
 
       - title: Sudoku
         link: "https://github.com/sissaNassir/progettoSudoku"
-        tagline: "University project (Scala and Prolog languages)"
+        tagline: "University project (Scala and Prolog languages), click [here](https://github.com/sissaNassir/progettoSudoku)"
 
 publications:
     title: Publications
