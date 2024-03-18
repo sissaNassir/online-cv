@@ -144,15 +144,15 @@ projects:
         link: "https://github.com/sissaNassir/Tulbat"
         tagline: "Fondamenti di Intelligenza Artificiale course, click on the title for the link" 
 
-publications:
-    title: Publications
-    intro: |
-      Nothing to see here at the moment. 
-    papers:
-      - title: # Your publication here
-        link: # put link here with "#"
-        authors: # Authors
-        conference: # conference
+#publications:
+#    title: Publications
+#    intro: |
+#      Nothing to see here at the moment. 
+#    papers:
+#      - title: # Your publication here
+#        link: # put link here with "#"
+#        authors: # Authors
+#        conference: # conference
 
 achievements:
   title: Skills learned at university
