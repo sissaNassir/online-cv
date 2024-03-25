@@ -145,7 +145,7 @@ projects:
         tagline: "Fondamenti di Intelligenza Artificiale course, click on the title for the link" 
 
       - title: Portafoglio
-        tagline: "Sistemi di Supporto alle decisioni course. Al candidato viene richiesto di definire un portafoglio di investimento efficiente. Previsioni anche con MLP e SVR"
+        tagline: "Sistemi di Supporto alle decisioni course. The candidate is asked to define an efficient investment portfolio. Forecasts also with MLP and SVR"
 
 #publications:
 #    title: Publications
