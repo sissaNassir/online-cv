@@ -144,6 +144,9 @@ projects:
         link: "https://github.com/sissaNassir/Tulbat"
         tagline: "Fondamenti di Intelligenza Artificiale course, click on the title for the link" 
 
+      - title: Portafoglio
+        tagline: "Sistemi di Supporto alle decisioni course. Al candidato viene richiesto di definire un portafoglio di investimento efficiente. Previsioni anche con MLP e SVR"
+
 #publications:
 #    title: Publications
 #    intro: |
