@@ -206,8 +206,7 @@ achievements:
       - Windows and Linux installation and configuration, shell scripting.
       - Assembly language, good knowledge of Internet and computer network, basic knowledge of telecommunication networks, very basic knowledge of electronics, control systems and automation.
 
-    - __Virtualization__:
-      - Docker.
+    - __Virtualization__: Docker.
 
 oss:
     title: Certifications & Achievements
