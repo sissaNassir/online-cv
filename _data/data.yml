@@ -118,7 +118,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Here some university projects are listed, included my theses. See also my github for more.
+      Here some university projects done during master degree are listed, included my theses. See also my github for more.
     assignments:
       - title: Soluzioni digitali e integrazione di modelli spiegabili a supporto delle diagnosi mediche
         link: "https://docs.google.com/document/d/1d_GyWI9PXgElgoEIloNoY4FUZDG4u8wQ1ueksntKxb4/edit"
@@ -146,6 +146,9 @@ projects:
 
       - title: Portafoglio
         tagline: "Sistemi di Supporto alle decisioni course. The candidate is asked to define an efficient investment portfolio. Forecasts also with MLP and SVR"
+        
+      - title: An Ontology for Credite Agricole
+        tagline: "Web Semantic course. Development of an ontology with Protege. Implementation of a small app to run queries with Apache Jena *App. Backend implemented with Spring Boot, Apache Jena was used to execute the queries with SPARQL and retrieve the ontology data. Frontend implemented with Angular"
 
 #publications:
 #    title: Publications
@@ -186,6 +189,9 @@ achievements:
     - __Operating Systems and Hardware__:
       - Windows and Linux installation and configuration, shell scripting.
       - Assembly language, good knowledge of Internet and computer network, basic knowledge of telecommunication networks, very basic knowledge of electronics, control systems and automation.
+
+    - __Virtualization__:
+      - Docker.
 
 oss:
     title: Certifications & Achievements
