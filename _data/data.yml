@@ -118,7 +118,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Here some university projects done during master degree are listed, included my theses. See also my github for more.
+      Here some university projects done during master degree are listed (some were done in group), included my theses. See also my github for more.
     assignments:
       - title: Soluzioni digitali e integrazione di modelli spiegabili a supporto delle diagnosi mediche
         link: "https://docs.google.com/document/d/1d_GyWI9PXgElgoEIloNoY4FUZDG4u8wQ1ueksntKxb4/edit"
@@ -157,6 +157,15 @@ projects:
       - title: Ethereum Dapp
         link: "https://github.com/sissaNassir/SurveyOnBlockchain/blob/master/src/Dapp_Ethereum.pdf"
         tagline: "Sistemi Distribuiti course. This project consists in the creation of a Dapp which represents a use case that allows the advantages of a public BlockChain (Ethereum) to be exploited and its potential to be highlighted through the creation of complex Smart Contracts. Click on the link for the report"
+
+      - title: Concurrent and distributed programming
+        tagline: "Programmazione concorrente e distribuita course. The mini-projects done were 1)Concurrent and multithread version of Elastic collision. 2)concurrent web crawler. 3)revisitation of Mastermind with actors programming. 4)Implementation of a Distributed Collaborative Puzzle with microservices"
+
+      - title: A new DataWarehouse
+        tagline: "Project management course. Simulation of the management activities of a project that deals with the finalization of a new data warehouse for the university."
+
+      - title: FOOL
+        tagline: "Linguaggi, compilatori e modelli computazionali course. The project consists in the creation of the compiler for the Functional and Object Oriented Language (FOOL)"
 
 #publications:
 #    title: Publications
