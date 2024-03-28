@@ -154,6 +154,10 @@ projects:
         link: "https://github.com/Weather-Vortex"
         tagline: "Applicazioni e Servizi Web course.  Web Application for Weather Forecast Aggregation, click on the title for the link"
 
+      - title: Ethereum Dapp
+        link: "https://github.com/sissaNassir/SurveyOnBlockchain/blob/master/src/Dapp_Ethereum.pdf"
+        tagline: "Sistemi Distribuiti course. This project consists in the creation of a Dapp which represents a use case that allows the advantages of a public BlockChain (Ethereum) to be exploited and its potential to be highlighted through the creation of complex Smart Contracts. Click on the link for the report"
+
 #publications:
 #    title: Publications
 #    intro: |
