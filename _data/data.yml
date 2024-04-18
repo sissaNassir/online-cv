@@ -101,6 +101,11 @@ education1:
 experiences:
     title: Experiences
     info:
+      - role: Assegnista di Ricerca
+        time: May 2024 - May 2025
+        company: University of Bologna - CIRI ICT
+        details: |
+         Machine Learning on Graphs for Decision Support (machine learning, optimization, operation research).
       - role: Tutor
         time: September, 2023
         company: Ragazze digitali ER Project
