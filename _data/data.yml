@@ -216,7 +216,10 @@ achievements:
 oss:
     title: Certifications & Achievements
     intro: |
-    contributions:  
+    contributions: 
+      - title: Formazione generale dei lavoratori sulla salute e sicurezza
+        link: "https://openbadges.bestr.it/public/assertions/OuFEcj0QTR2tJzS1hWkGCw"
+        tagline: Course dispensed by University o Bologna
       - title: Attendance at The Tenth World Conference on The Future of Science
         link: "https://www.thefutureofscience.org/about/tenth-world-conference-the-eradication-of-hunger"
         tagline: "The conference was about the eradication of hunger and how science and technology can contribute to solve this problem. Venice, September 2014"
@@ -229,3 +232,5 @@ oss:
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+
+    
