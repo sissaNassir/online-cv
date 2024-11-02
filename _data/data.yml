@@ -59,11 +59,16 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I'm a Computer Engineer based in Rimini. I'm passionate about Artificial Intelligence. 
+      I'm a Computer Science Engineer based in Rimini. I'm passionate about Artificial Intelligence. 
       I'm a good listener with a curious mind.
 education:
     title: Education
     info:
+      - degree: PhD in Computer Science and Engineering
+        university: University of Bologna
+        time: |
+        details: |
+        
       - degree: MSc in Computer Science and Engineering
         university: University of Bologna, Cesena Campus
         time: |
@@ -77,6 +82,11 @@ education:
 education1:
     title: Education
     info:
+     - degree: PhD in Computer Science and Engineering
+        university: University of Bologna
+        time: November 2024 - to date
+        details: |
+            - Thesis: (...)
       - degree: MSc in Computer Science and Engineering (LM-32)
         university: University of Bologna, Cesena Campus
         time: October 2019 - March 15, 2024
@@ -102,10 +112,10 @@ experiences:
     title: Experiences
     info:
       - role: Research Fellow (Assegnista di Ricerca)
-        time: May 2024 - May 2025
+        time: May 2024 - October 2024
         company: University of Bologna - CIRI ICT
         details: |
-         Machine Learning on Graphs for Decision Support (machine learning, optimization, operation research). Artificial Intelligence in industry. Artificial Intelligence/Machine Learning (AI/ML) - Anomaly Detection/Predictive Maintenance.
+         Machine Learning on Graphs for Decision Support. Artificial Intelligence in industry. Artificial Intelligence/Machine Learning (AI/ML) - Anomaly Detection.
       - role: Tutor
         time: September 2023 and September 2024
         company: Ragazze digitali ER Project
