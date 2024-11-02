@@ -63,17 +63,11 @@ career-profile:
       I'm a good listener with a curious mind.
 education:
     title: Education
-    info:
-      - degree: PhD in Computer Science and Engineering
-        university: University of Bologna
-        time: |
-        details: |
-        
+    info:        
       - degree: MSc in Computer Science and Engineering
         university: University of Bologna, Cesena Campus
         time: |
-        details: |
-          
+        details: |          
       - degree: BSc in Computer Science and Engineering
         university: University of Bologna, Cesena Campus
         time: |
@@ -82,7 +76,7 @@ education:
 education1:
     title: Education
     info:
-     - degree: PhD in Computer Science and Engineering
+      - degree: PhD in Computer Science and Engineering
         university: University of Bologna
         time: November 2024 - to date
         details: |
