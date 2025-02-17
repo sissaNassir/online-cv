@@ -76,17 +76,22 @@ education1:
         university: University of Bologna
         time: November 2024 - to date
         details: |
-            - The main research areas of the group of research involves Artificial Intelligence,Cloud Computing, Distributed Systems, Mobile Systems and Information Security.
-            - Attendance of PhD courses with exams, Summer Schools, (...)
+            - The main research areas of my group of research involves Artificial Intelligence,Cloud Computing, Distributed Systems, Mobile Systems and Information Security. Under the supervision of prof. Foschini Luca.
+            - PhD courses with exams: Service Orchestration and Industrial IoT Platforms for Industry 4 and 5.0 environments, Containerisation and Orchestration for Research Reproducibility, Toward Next-Generation Networks - 5G and O-RAN implementations,
+              Cutting-Edge Text Mining: from Consolidated Natural Language Processing Methods to Advanced Large Language Models, Robust and Reproducible Research, Human-AI interaction, Data Visualization in Research, How to write a scientific paper, ...
+            - Summer Schools:
             - Thesis: (...)
+            - Funded by PNRR, with six months in ICT industry at ARCA tecnologie, Imola. For the company I studied on AI in embedded and automotive.
       - degree: MSc in Computer Science and Engineering (LM-32)
         university: University of Bologna, Cesena Campus
         time: October 2019 - March 15, 2024
         details: |
-            - Thesis: Soluzioni digitali e integrazione di modelli spiegabili a supporto delle diagnosi mediche
+            - Thesis in Explainable Artificial Intelligence in medical diagnosis: Soluzioni digitali e integrazione di modelli spiegabili a supporto delle diagnosi mediche
             - [Click here for reading the abstract of the thesis](https://docs.google.com/document/d/1d_GyWI9PXgElgoEIloNoY4FUZDG4u8wQ1ueksntKxb4/edit)
             - Grade: 107/110
             - CFU achieved: 128/120
+            - Exams: Distributed Systems, Languages Compilers and Computational Models, Machine Learning, Informative Systems, Cybersecurity, Programming and Development paradigms(Scala and Prolog), Concorrent and Distributed Programming,
+              Web Applications and Services, Fundamental of Artificial Intelligence, Deep Learning, Decision Support Systems, Project Management, Intelligent robotic systems, Internet routing and transport, Semantic Web
       - degree: BSc in Computer Science and Engineering
         university: University of Bologna, Cesena Campus
         time: October 2015 - October 2019
@@ -94,21 +99,22 @@ education1:
             - Thesis: Studio del segnale sonoro tramite l'analisi di Fourier e sintesi musicale
             - Grade: 95/110
             - CFU achieved: 180/180
+            - Classical exams of an Engineering bachelor and classical Computer Science exams (including object-oriented programming, database beginner and advanced, numerical analysis, fundamentals of image processing, high performance computing, computer graphics etc.) 
       - degree: Scientific High School Diploma (Classic curriculum)
         university: Liceo Scientifico Albert Einstein, Rimini, Italy
         time: 2010 - 2015
         details: |
             - Grade: 100/100
-            - Languages (English and Spanish) 
+            - Classical curriculum with two foreign languages (English and Spanish)
 experiences:
     title: Experiences
     info:
       - role: Research Fellow (Assegnista di Ricerca)
-        time: April 2024 - October 2024
+        time: May 2024 - October 2024
         company: University of Bologna - CIRI ICT
         details: |
-         S4C project with title "Apprendimento Automatico su Grafi per Supporto alle Decisioni" 
-         - Artificial Intelligence in industry 
+         S4C project with title "Apprendimento Automatico su Grafi per Supporto alle Decisioni" under the supervision of prof. Lombardi Michele
+         - Artificial Intelligence in industry course
          - The S4C project focused on identifying data sources, determining their structure, and defining use cases. Key activities included discussions with stakeholders and data providers, defining problems and objectives, and identifying appropriate analysis methodologies. In parallel,a Machine Learning solution of neuro-probabilistic type with general applicability was developed to address the identified problems.
          - Competencies: Anomaly Detection, Machine Learning, Data Analysis, Pytorch
       - role: Tutor
@@ -176,15 +182,15 @@ projects:
       - title: FOOL
         tagline: "Linguaggi, compilatori e modelli computazionali course. The project consists in the creation of the compiler for the Functional and Object Oriented Language (FOOL)"
 
-#publications:
-#    title: Publications
-#    intro: |
-#      Nothing to see here at the moment. 
-#    papers:
-#      - title: # Your publication here
-#        link: # put link here with "#"
-#        authors: # Authors
-#        conference: # conference
+publications:
+    title: Publications
+    intro: |
+      Nothing to see here at the moment. 
+    papers:
+      - title: # Your publication here
+        link: # put link here with "#"
+        authors: # Authors
+        conference: # conference
 
 achievements:
   title: Skills learned at university
