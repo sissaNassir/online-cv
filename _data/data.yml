@@ -78,8 +78,8 @@ education1:
         details: |
             - The main research areas of my group of research involves Artificial Intelligence,Cloud Computing, Distributed Systems, Mobile Systems and Information Security. Under the supervision of prof. Foschini Luca.
             - PhD courses with exams: Service Orchestration & IoT for Industry 4.0/5.0, Containerisation and Orchestration for Research Reproducibility, Next-Gen Networks: 5G & O-RAN,
-              Text Mining: NLP to LLMs, Robust and Reproducible Research, Human-AI interaction, Data Visualization in Research, How to write a scientific paper, ...
-            - Summer Schools:
+              Text Mining: NLP to LLMs, Robust and Reproducible Research, Human-AI interaction, Data Visualization in Research, How to write a scientific paper, Big Data Privacy, Data Platforms and AI, Serverless Computing, ...
+            - Summer Schools: Advanced Topics in 5G-6G RAN for Industrial IoT” – Catania,
             - Thesis: (...)
             - Funded by PNRR, with six months in ICT industry at ARCA tecnologie, Imola. For the company I studied on AI in embedded and automotive.
       - degree: MSc in Computer Science and Engineering (LM-32)
@@ -187,10 +187,10 @@ publications:
     intro: |
       Nothing to see here at the moment. 
     papers:
-      - title: # Your publication here
-        link: # put link here with "#"
-        authors: # Authors
-        conference: # conference
+      - title: DDPG-based Automatic Antenna Tilt Angle Configuration with Counterfactual Explanations
+        link: https://ieeexplore.ieee.org/document/11326377
+        authors: Silvia Zandoli, Domenico Scotece, Luca Foschini
+        conference: ISCC 2025
 
 achievements:
   title: Skills learned at university
